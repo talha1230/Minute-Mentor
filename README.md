@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1TifgSvW_6HCAkEKC6VtJi-1pWOyrWUVL/view?usp=sharing" target="_blank">
-    <img src="assets/screenshots/logo.png" alt="MinuteMentor Demo Video Preview" width="600px"/>
+    <img src="assets/screenshots/logo.png" alt="MinuteMentor Demo Video Preview" width="150px"/>
   </a>
   <p><em>Click the image to watch the demo video</em></p>
 </div>
