@@ -234,21 +234,21 @@
       <td>Goals CRUD, progress tracking, glass morphism UI</td>
     </tr>
     <tr>
-      <td>🔄 <strong>In Progress</strong></td>
+      <td>✅ <strong>In Progress</strong></td>
       <td>Study Planner - Calendar</td>
-      <td>75%</td>
+      <td>100%</td>
       <td>Calendar integration, task management</td>
     </tr>
     <tr>
-      <td>🔄 <strong>In Progress</strong></td>
+      <td>✅ <strong>In Progress</strong></td>
       <td>Quiz & Assessment System</td>
-      <td>60%</td>
+      <td>100%</td>
       <td>Quiz creation, interactive taking, analytics</td>
     </tr>
     <tr>
       <td>📅 <strong>Planned</strong></td>
       <td>Notifications Center</td>
-      <td>30%</td>
+      <td>100%</td>
       <td>In-app and push notifications</td>
     </tr>
   </table>
