@@ -18,15 +18,15 @@
 
 ## 🎥 Demo Video
 
-> **🎬 [Add your demo video here]**
-> 
+> **🎬 [Watch the Demo Video](https://drive.google.com/file/d/1TifgSvW_6HCAkEKC6VtJi-1pWOyrWUVL/view?usp=sharing)**
+>
 > Experience MinuteMentor in action - from user authentication to tutor discovery, session management, and intelligent study planning.
 
 <div align="center">
-  <a href="#demo-video-placeholder">
-    <img src="assets/demo-thumbnail.png" alt="MinuteMentor Demo Video" width="600px"/>
+  <a href="https://drive.google.com/file/d/1TifgSvW_6HCAkEKC6VtJi-1pWOyrWUVL/view?usp=sharing" target="_blank">
+    <img src="assets/screenshots/logo.png" alt="MinuteMentor Demo Video Preview" width="600px"/>
   </a>
-  <p><em>Click to play demo video (Video will be added soon)</em></p>
+  <p><em>Click the image to watch the demo video</em></p>
 </div>
 
 ## 📸 Screenshots
@@ -142,7 +142,7 @@
         <br><em>Programming Language</em>
       </td>
       <td align="center" width="150px">
-        <img src="https://appwrite.io/images/github.png" width="60px"/>
+        <img src="assets/screenshots/appwrite.png" width="60px"/>
         <br><strong>Appwrite</strong>
         <br><em>Backend as a Service</em>
       </td>
@@ -234,19 +234,19 @@
       <td>Goals CRUD, progress tracking, glass morphism UI</td>
     </tr>
     <tr>
-      <td>✅ <strong>In Progress</strong></td>
+      <td>✅ <strong>Complete</strong></td>
       <td>Study Planner - Calendar</td>
       <td>100%</td>
       <td>Calendar integration, task management</td>
     </tr>
     <tr>
-      <td>✅ <strong>In Progress</strong></td>
+      <td>✅ <strong>Complete</strong></td>
       <td>Quiz & Assessment System</td>
       <td>100%</td>
       <td>Quiz creation, interactive taking, analytics</td>
     </tr>
     <tr>
-      <td>📅 <strong>Planned</strong></td>
+      <td>✅ <strong>Complete</strong></td>
       <td>Notifications Center</td>
       <td>100%</td>
       <td>In-app and push notifications</td>
@@ -473,10 +473,10 @@
 
 ### 📞 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/talha1230/))
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/talha1230)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=safari)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=safari)]([https://yourportfolio.com](https://talha-dev-lemon.vercel.app/))
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:tk771256@gmail.com)
 
 **🚀 Ready to build something amazing together? Let's talk!**
 
