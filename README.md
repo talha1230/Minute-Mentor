@@ -400,15 +400,15 @@
 
 ### 🌐 **Deployment & Access**
 - **🚀 Live Demo**: [Coming Soon - Web Version]
-- **📱 APK Download**: [Coming Soon - Android Release]
+- **📱 APK Download**: [Available in current Report - Android Release]
 - **🍎 iOS TestFlight**: [Coming Soon - iOS Beta]
 - **💻 Desktop App**: [Coming Soon - Windows/macOS]
 
 ### 📞 **Contact & Collaboration**
-- **💼 LinkedIn**: [Your LinkedIn Profile]
+- **💼 LinkedIn**: [talha1230]
 - **🐙 GitHub**: [@talha1230](https://github.com/talha1230)
-- **📧 Email**: [Your Professional Email]
-- **🌐 Portfolio**: [Your Portfolio Website]
+- **📧 Email**: [tk771256@gmail.com]
+- **🌐 Portfolio**: [https://talha-dev-lemon.vercel.app]
 
 ## 📊 Project Statistics
 
